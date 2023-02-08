@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/average/bin/Debug/net7.0/average
+/home/sneg/Documents/C#/average/bin/Debug/net7.0/average.deps.json
+/home/sneg/Documents/C#/average/bin/Debug/net7.0/average.runtimeconfig.json
+/home/sneg/Documents/C#/average/bin/Debug/net7.0/average.dll
+/home/sneg/Documents/C#/average/bin/Debug/net7.0/average.pdb
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.AssemblyInfo.cs
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.dll
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/refint/average.dll
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.pdb
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/average.genruntimeconfig.cache
+/home/sneg/Documents/C#/average/obj/Debug/net7.0/ref/average.dll
